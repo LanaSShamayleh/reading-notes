@@ -25,5 +25,5 @@ Lab06   | [Design web pages with CSS](Lab06-Design-web-pages-with-CSS.md)
 
  **Assignment**| **Link** 
 ------------ | -------------
-     Read01  | [Introductory HTML and JavaScript](Reading-Note201/Introductory-HTML-JavaScript.md)
+     Read01  | [Introductory HTML and JavaScript](Introductory-HTML-JavaScript.md)
 
