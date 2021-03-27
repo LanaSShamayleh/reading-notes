@@ -8,15 +8,15 @@
  **Assignment**| **Link**
 ------------ | -------------
 Lab01        | [The Coder Computer](Lab01-TheCoder-Computer.md)
- Lab02a         | [A Growth Mindest](Lab02a-Learning-Markdown.md)
-  Lab02b     | [Revesions and Cloud](Lab02b-Revesionand-Cloud.md)
-  Lab03    | [Structure web pages with HTML](Lab03-Structure-web.md)
-Lab04a    | [Programming with Java](Lab04a-Programming-Java.md)
-Lab05    | [Loops and Operators](Lab05-Loops-Operators.md)
-Lab06   | [Design web pages with CSS](Lab06-Design-web-pages-with-CSS.md)
+Lab02a       | [A Growth Mindest](Lab02a-Learning-Markdown.md)
+Lab02b       | [Revesions and Cloud](Lab02b-Revesionand-Cloud.md)
+Lab03        | [Structure web pages with HTML](Lab03-Structure-web.md)
+Lab04a       | [Programming with Java](Lab04a-Programming-Java.md)
+Lab05        | [Loops and Operators](Lab05-Loops-Operators.md)
+Lab06        | [Design web pages with CSS](Lab06-Design-web-pages-with-CSS.md)
 
-### Code 201 Reading Notes
+## Code 201 Reading Notes
 
- **Assignment**| **Link**
+**Assignment**| **Link**
 ------------ | -------------
-     Read01  | [Introductory HTML and JavaScript](Reading-Note201/Introductory-HTML-JavaScript.md)
+Read01       | [Introductory HTML and JavaScript](Reading-Note201/Introductory-HTML-JavaScript.md)
