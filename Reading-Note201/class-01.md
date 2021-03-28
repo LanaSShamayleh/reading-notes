@@ -1,4 +1,4 @@
-# Introduction of ***HTML*** and  ***JavaScript***
+# Introduction of ***HTML*** and ***JavaScript***
 
 From **DUCKETT BOOK**, I learned that it is important to consider the different ways in which people access the web,like:
 
