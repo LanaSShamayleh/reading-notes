@@ -1,6 +1,6 @@
 # Introduction
 
-> My name is Lana shamayleh. I studied electrical and communication engineering and graduated from the Hashemite University. I took several courses in the field of networking    and hacking ,and now i'm seeking to improve my skills and knowledge in the Web Development in order to enhance my future career path. So ,I’m excited to learn  this field  with a beautiful team on my new college that's called luminus college .
+> My name is Lana shamayleh. My age is 23 years. I studied electrical and communication engineering in the Hashemite university with 3.41 out of 4 as a GPA. Also ,I'm an enthusiastic fresher with highly motivated and leadership skills with interests in ethical penetration of networks and web development .Currently, I got a scholarship from Luminus College in the field of web development and databases management by using several programming languages.So,I’m excited to learn with the beautiful team and colleagues on the ASAC .
 > *[Visit My GitHub portfolio page](https://github.com/LanaSShamayleh)*
 
 ## Code 102 Reading Notes
