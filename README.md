@@ -21,3 +21,4 @@ Lab06        | [Design web pages with CSS](Lab06-Design-web-pages-with-CSS.md)
 ------------ | -------------
 Read01       |  [Introductory HTML and JavaScript](Reading-Note201/class-01.md)
 Read02       |  [Basics of HTML, CSS & JS](Reading-Note201/class-02.md)
+Read02       |  [HTML Lists, Control Flow with JS, and the CSS Box Model](Reading-Note201/class-03md)
