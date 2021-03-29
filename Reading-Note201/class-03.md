@@ -70,7 +70,7 @@ Data types in JavaScript can be coerced from one type to another and all it's va
 >>`} else {`
 >>`//  block of code to be executed if the condition is false`
 >>`}`
->
+>>
 >>* **A switch statement**: starts with a variable called the switch value. Each case indicates a possible
 >> value for this variable and the code that should run if the variable matches that value.
 >>>
