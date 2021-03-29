@@ -1,6 +1,6 @@
 # Introduction
 
-> My name is Lana shamayleh. My age is 23 years. I studied electrical and communication engineering in the Hashemite university with 3.41 out of 4 as a GPA. Also ,I'm an enthusiastic fresher with highly motivated and leadership skills with interests in ethical penetration of networks and web development .Currently, I got a scholarship from Luminus College in the field of web development and databases management by using several programming languages.So,I’m excited to learn with the beautiful team and colleagues on the ASAC .
+> My name is Lana shamayleh. My age is 23 years. I studied electrical and communication engineering in the Hashemite university with 3.41 out of 4 as a GPA. Also ,I'm an enthusiastic fresher with highly motivated and leadership skills with interests in ethical penetration of networks and web development .Currently, I got a scholarship from Luminus College in the field of web development and databases management by using several programming . So ,I’m excited to learn with the beautiful team and colleagues on the ASAC .
 > *[Visit My GitHub portfolio page](https://github.com/LanaSShamayleh)*
 
 ## Code 102 Reading Notes
