@@ -48,7 +48,7 @@ From **DUCKETT HTML BOOK**, I learned that during creating a web page, there are
 
 Also, I got familiar with the boxes and saw how CSS treats each HTML element as if it lives in its own box.these treatments are like a control the dimensions of your boxes ,create borders around boxes,set margins and padding for boxes and show and hide boxes.
 
-From **DUCKETT JS BOOK**, I familiar with array which is a  special type of variable and It stores a list of values, these values are separated by commas.It is important to know that the index of the items inside an array are numbering from zero (not one).Also, You can access the value inside the array and change it's value .the following code show declration statement of an array and it's access statement:
+From **DUCKETT JS BOOK**, I got familiar with array which is a  special type of variable and It stores a list of values, these values are separated by commas.It is important to know that the index of the items inside an array are numbering from zero (not one).Also, You can access the value inside the array and change it's value .the following code show declration statement of an array and it's access statement:
 >
 >>`// Create the array`
 >>
