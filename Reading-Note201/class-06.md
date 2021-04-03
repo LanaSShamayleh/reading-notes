@@ -1,7 +1,5 @@
 # JS Object Literals; The DOM
 
-## Object Literals
-
 >Objects in JS consist of properties and methods. Properties are key value pairs that describe the object. Methods are tasks performed on that object. Objects can be created using literal notation.
 >
 >>JavaScript
