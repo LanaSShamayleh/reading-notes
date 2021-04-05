@@ -26,3 +26,4 @@ Read04       |  [HTML Links, CSS Layout, JS Function](Reading-Note201/class-04.m
 Read05       |  [Images, Color and Text](Reading-Note201/class-05.md)
 Read06       |  [JS Object Literals; The DOM](Reading-Note201/class-06.md)
 Read07       |  [Object-Oriented Programming, HTML Tables](Reading-Note201/class-07.md)
+Read08       |  [CSS Layout](Reading-Note201/class-08.md)
