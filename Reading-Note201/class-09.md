@@ -49,7 +49,7 @@ checked="checked" /> Fall
 <input type="submit" value="Search" />
 ```
 
-Related form elements can be grouped using ```<fieldset>``` element with a child ```<legend>``` element which explains the purpose of the form control group. 
+Related form elements can be grouped using ```<fieldset>``` element with a child ```<legend>``` element which explains the purpose of the form control group.
 
 ## CSS Lists, Tables and Forms
 
