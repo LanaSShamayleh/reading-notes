@@ -68,7 +68,7 @@ There are four transition related properties in total, including transition-prop
 
 ```
 
-* there is a shorthand property, `transition`, capable of supporting all of these different properties and values. Using the transition value alone, you can set every transition value in the order of transition-property, transition-duration, transition-timing-function, and lastly transition-delay `transition: background .2s linear, border-radius 1s ease-in 1s`
+- there is a shorthand property, `transition`, capable of supporting all of these different properties and values. Using the transition value alone, you can set every transition value in the order of transition-property, transition-duration, transition-timing-function, and lastly transition-delay `transition: background .2s linear, border-radius 1s ease-in 1s`
 
 ## Animations
 
