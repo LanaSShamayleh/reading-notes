@@ -34,3 +34,9 @@ Read12       |  [Docs for the HTML canvas tag Element & Chart.js](Reading-Note20
 Read13a      |  [Local Storage](Reading-Note201/class-13a.md)
 Read13b      |  [CSS Transforms, Transitions, and Animations](Reading-Note201/class-13b.md)
 Read14       |  [What Google Learned About Teams](Reading-Note201/class-14.md)
+
+## Code 301 Reading Notes
+
+**Assignment**| **Link**
+------------ | -------------
+Read01       |  [Introductory HTML and JavaScript](Reading-Note201/class-01.md)
