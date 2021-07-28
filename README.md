@@ -39,3 +39,4 @@ Read14       |  [What Google Learned About Teams](Reading-Note201/class-14.md)
 
 **Assignment**| **Link**
 ------------ | -------------
+Read01       |  [Introductory HTML and JavaScript](Reading-Note301/test.md)
