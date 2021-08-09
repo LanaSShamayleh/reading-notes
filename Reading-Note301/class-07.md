@@ -1,46 +1,52 @@
-# Read-07
+# REST
 
-## REST
+## How I explained REST to my brother
 
-- what is a __protocol__?
-  - it is capable of describing the location of something anywhere in the world from anywhere in the world. It's the foundation of the web.
-  - You can think of it like GPS coordinates for knowledge and information.
+### Who is Roy Fielding?
 
-  - __The whole world wide web__ is built on an architectural style called __“REST”__.
-  - __REST__ provides a definition of a “resource”, which is what those things point to.
-  - __A web page__ is a “representation” of a resource.
-  - __URLs__ tell the browser that there's a concept somewhere.
-  - __A browser__ can then go ask for a specific representation of the concept.
+He's smart guy, and He helped write the first web servers, that sent documents across the internet… and then he did a ton of research explaining why the web works the way it does. His name is on the specification for the protocol that is used to get pages from servers to your browser.
 
-  - __“Web Services”__ or __"APIs"__:is that machines could use the web just like people do.
-    - which means computers can use those same protocols to send messages back and forth to each other.
+### Why don’t the techniques that we use today work well when we need to be able to talk to all of the machines in the world?
 
-  - __redirect__:is a technique for moving visitors to a different Web page than the one they request,
-     usually because the page requested is unavailable.  
+When Fielding and his colleagues started building the web, being able to talk to any machine anywhere in the world was a primary concern. But most of the techniques developers later used to get computers to talk to each other didn't have those requirements
 
-  - __polymorphism__: can be applied to many different nouns. Some verbs are more specific than others and apply only to a small set of nouns.
-    - But some verbs are almost universal like GET, PUT, and DELETE.
-  - __HTTP__ is all about applying verbs to nouns.
-    - the browser does an HTTP GET on the URL you type in and back comes a web page.
-    - is actually a general purpose protocol for applying verbs to nouns.
-    - __HTTP POST__:to add something to another system.
-    - __HTTP PUT__:to replace something in another system or to do a partial update.
-  - software developers work on now to Decide how to best model the data thanks almost entirely to RESTful web frameworks like Ruby on Rails.  
+### What is the HTTP protocol that Fielding and his friends created?
 
-   _________________________
+Is all about applying verbs to nouns. For instance, when you go to a web page, the browser does an HTTP GET on the URL you typed in and back comes a web page.
 
-## What Google Learned From Its Quest to Build the Perfect Team
+The web page just specifies the URLs to the images and the browser goes and does more GETs using the HTTP protocol on them until all the resources are obtained and the web page is displayed. But the important thing here is that very different kinds of nouns can be treated the same. Whether the noun is an image, text, video, an mp3, a slideshow, whatever. I can GET all of those things the same way given a URL.
 
-- enhanced teams:
+### What does a GET do?
 
-   1. Psychological safety: Everyone feels safe in taking risks around their team members, and that they won’t be embarrassed or punished for doing so.
-   2. Dependability: Everyone completes quality work on time.
-   3. Structure and clarity: Everyone knows what their specific expectations are. These expectations must be challenging yet attainable.
-   4. Meaning: Everyone has a sense of purpose in their work (i.e., financial security, supporting family, helping the team succeed, etc.).
-   5. Impact: Everyone sees that the result of their work actually contributes to the organization’s overall goals.
+Each of the systems would retrieve information from each other using a simple HTTP GET
 
-     ---
+### What does a POST do?
 
-- Develop a strategic mindset: Know and understand what drives company to success.
-- Be known for something: Be proactive in mastering them.
-- Practice tackling complex problems: Use those linear thinking skills to your advantage by diving deeply into issues.
+If one system needs to add something to another system, it would use an HTTP verb of POST
+
+### What does PUT do?
+
+If a system wants to replace something in another system, it uses an HTTP verb of PUT.
+
+### What does PATCH do?
+
+If a system wants to replace something in another system, it uses an HTTP verb of PUT.
+
+
+
+*Geocoding API*
+
+Did you get your API key? yes
+
+*Weather Bit API*
+
+Did you get your API key? yes
+
+*Yelp API Docs*
+
+Did you get your API key? yes
+
+*The Movie DB API Docs*
+
+Did you get your API key? yes
+
