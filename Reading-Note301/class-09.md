@@ -8,7 +8,6 @@
 
 ## What is a pure function and how do we know if something is a pure function?
 
-
 It returns the same result if given the same arguments (it is also referred as deterministic)
 
 It does not cause any observable side effects
